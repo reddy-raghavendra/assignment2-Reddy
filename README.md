@@ -45,3 +45,14 @@ Mutton curry is a dish that is made from **Goat Meat**. It is usually served **w
 |Mysore|20|150$|
 |Hampi|25|100$|
 |Chickmaglur|12|60$|
+
+***
+
+### Quotes
+
+> Swaraj is my birth right and I shall have it.
+                            *Bal Gangadhar Tilak*
+
+>Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.
+                            *A. P. J. Abdul Kalam*
+

@@ -22,4 +22,14 @@ Mutton curry is a dish that is made from **Goat Meat**. It is usually served **w
     2. Rumali Roti.
     3. Naan.
     4. paratha.
+10. Required ingredients for the recipe
+    * 500 grams Mutton.
+    * 2 Onions , finely chopped.
+    * 3/4 cup Curd (Dahi / Yogurt).
+    * Sunflower Oil , as required.
+    * Below Spices
+        * Cloves.
+        * Cumin powder.
+        * Bay leaves.
+
 

@@ -56,3 +56,32 @@ Mutton curry is a dish that is made from **Goat Meat**. It is usually served **w
 >Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.
                             *A. P. J. Abdul Kalam*
 
+***
+
+### Go Programming Language
+>Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency. The language is often referred to as Golang because of its domain name, golang.org, but the proper name is Go.
+
+[Go Lang Wiki](https://en.wikipedia.org/wiki/Go_(programming_language))
+
+##### Sample source code
+``` 
+import "math"
+
+type Shape interface {
+    Area() float64
+}
+
+type Square struct { // Note: no "implements" declaration
+    side float64
+}
+
+func (sq Square) Area() float64 { return sq.side * sq.side }
+
+type Circle struct { // No "implements" declaration here either
+    radius float64
+}
+
+func (c Circle) Area() float64 { return math.Pi * math.Pow(c.radius, 2) }
+```
+
+

@@ -37,11 +37,11 @@ Mutton curry is a dish that is made from **Goat Meat**. It is usually served **w
 ***
 
 ### List of places recommended to visit in the karnataka state of india
-|:Location:|:No of hours:|:Money required:|
-|----------|-------------|----------------|
-|:Kodagu:|:36:|:200$:|
-|:Gokarna:|:8:|:50$:|
-|:Bangalore:|:20:|:100$:|
-|:Mysore:|:20:|:150$:|
-|:Hampi:|:25:|:100$:|
-|:Chickmaglur:|:12:|:60$|
+|Location|No of hours|Money required|
+|:------:|:---------:|:------------:|
+|Kodagu|36|200$|
+|Gokarna|8|50$|
+|Bangalore|20|100$|
+|Mysore|20|150$|
+|Hampi|25|100$|
+|Chickmaglur|12|60$|

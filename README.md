@@ -9,7 +9,7 @@ Mutton curry is a dish that is made from **Goat Meat**. It is usually served **w
 ***
 
 #### How to cook mutton curry
-![](Images/MuttonCurry.jpg)
+![](Images/MuttonCurry.jpg=100X20)
 1. Marinate lamb with yogurt, red chilli powder, turmeric powder, cumin powder, coriander powder, and salt.
 2. Mix everything well and keep it aside for about 2 hours.
 3. Heat oil in a heavy bottomed pan and add cloves, cardamoms, bay leaves, garlic, ginger and saute for a few seconds.

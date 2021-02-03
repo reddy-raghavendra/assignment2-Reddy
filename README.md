@@ -65,23 +65,34 @@ Mutton curry is a dish that is made from **Goat Meat**. It is usually served **w
 
 ##### Sample source code
 ``` 
-import "math"
+package main
 
-type Shape interface {
-    Area() float64
+import (
+	"fmt"
+	"os"
+	"strconv"
+)
+
+func ack(n, m int64) int64 {
+	for n != 0 {
+		if m == 0 {
+			m = 1
+		} else {
+			m = ack(n, m-1)
+		}
+		n = n - 1
+	}
+	return m + 1
 }
 
-type Square struct { // Note: no "implements" declaration
-    side float64
+func main() {
+	if len(os.Args) > 2 {
+		ia1, _ := strconv.ParseInt(os.Args[1], 10, 0)
+		ia2, _ := strconv.ParseInt(os.Args[2], 10, 0)
+		fmt.Println(ack(ia1, ia2))
+	}
 }
-
-func (sq Square) Area() float64 { return sq.side * sq.side }
-
-type Circle struct { // No "implements" declaration here either
-    radius float64
-}
-
-func (c Circle) Area() float64 { return math.Pi * math.Pow(c.radius, 2) }
 ```
+[Code Reference](https://github.com/SimonWaldherr/golang-examples/blob/master/beginner/ackermann.go)
 
 

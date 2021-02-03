@@ -42,7 +42,7 @@ Mutton curry is a dish that is made from **Goat Meat**. It is usually served **w
 |[Kodagu](Images/coorgg.jpg)|36|200$|
 |[Gokarna](Images/Gokarna.jpg)|8|50$|
 |[Bangalore](Images/Bangalore.jpg)|20|100$|
-|[Mysore](Images/mysore.jpg)|20|150$|
+|[Mysore](Images/Mysore.jpg)|20|150$|
 |[Hampi](Images/Hampi.jpg)|25|100$|
 |[Chickmaglur](Images/chickmaglur.jpg)|12|60$|
 
